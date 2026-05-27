@@ -12,4 +12,10 @@
 
 `search` - Usado para procurar um container a partir de um parâmetro específico.
 
-`cp` - Usado para copiar arquivos 
+`cp` - Usado para copiar arquivos do container para o host.
+
+`history` - Usado para exibir o histórico de comandos que foram executados dentro do container.
+
+`info` - Usado para exibir informações sobre o host.
+
+`top` - Usado para exibir os processos rodando em um container.
